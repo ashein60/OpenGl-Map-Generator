@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\ashei\Desktop\Coding\OpenGL\Cellular Automata Map Generator\Main.cpp(129,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ashei\Desktop\Coding\OpenGL\Cellular Automata Map Generator\Main.cpp(129,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Cellular Automata Map Generator.vcxproj -> C:\Users\ashei\Desktop\Coding\OpenGL\Cellular Automata Map Generator\x64\Release\Cellular Automata Map Generator.exe

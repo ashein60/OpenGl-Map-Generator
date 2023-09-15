@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\ashei\Desktop\Coding\OpenGL\Cellular Automata Map Generator\Main.cpp(129,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ashei\Desktop\Coding\OpenGL\Cellular Automata Map Generator\Main.cpp(129,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Cellular Automata Map Generator.vcxproj -> C:\Users\ashei\Desktop\Coding\OpenGL\Cellular Automata Map Generator\x64\Debug\Cellular Automata Map Generator.exe
